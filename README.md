@@ -81,7 +81,7 @@ These are automatically installed via PlatformIO dependencies.
 
 1. **Clone or download this repository**
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:WRH-05/selfBalancer.git
    cd 251023-121233-nanoatmega328
    ```
 
